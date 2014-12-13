@@ -1,0 +1,6 @@
+#_#Name|Tag|Descritpion|HP(0)|Hungry(0)|Thirst(0)|AttackPower(-1)|DefensePower(-1)|Weight(0)|##
+
+Banana_banana_A wonderful yellow banana._0_15_0_0_-1_0.2_
+Pen_pen_A blue pen, half-filled but it doesn't write anything._0_0_0_1_-1_0.1_
+Sword_sword_Watch out ! You will hurt someone with this._0_0_0_10_-1_10_
+Clothes_clothes_The tattered clothes you wore during the party. What a night !_0_0_0_-1_1_1_
